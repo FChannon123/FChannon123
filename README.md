@@ -32,7 +32,7 @@ I'm Francesca Channon, a PhD student at University College London (UCL), special
 
 ### Projects and Research Interests:
 
-- **Research Universe**: [Project Overview](https://github.com/YourGitHub/Research-Universe)
+- **Research Universe**: [Project Overview](https://github.com/ResearchUniverse-ai)
     - Developing in collaboration with AI entrepreneur Elton Sampaio, the tool is designed to help researchers explore, analyse, and visualise research related to HVAC systems and AI.
     - The project involves natural language processing, knowledge graphs, interactive 3D visualisations, and querying of AI and HVAC research databases.
 
