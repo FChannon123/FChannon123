@@ -8,6 +8,7 @@ I'm Francesca Channon, a PhD student at University College London (UCL), special
 
 ### 🌱 I’m currently learning
 - Advanced AI techniques such as reinforcement learning from human feedback (RLHF), transformer models, LLM fine-tuning, and LLM-knowledge graph integration.
+- DRL Methods for HVAC optimisation in commcercial buildings.
 
 ### 👯 I’m looking to collaborate on
 - Projects involving AI applications for sustainability, energy-efficient systems, and large-scale data analytics.
@@ -15,7 +16,6 @@ I'm Francesca Channon, a PhD student at University College London (UCL), special
 
 ### 🤔 I’m looking for help with
 - Collaborators who are interested in the intersection of AI, HVAC systems, and environmental sustainability.
-- Contributions to **Research Universe**, particularly in KG construction, LLM-KG integration, and finetuning.
 
 ### 💬 Ask me about
 - AI applications in energy efficiency within the sustainable built environment.
@@ -36,7 +36,7 @@ I'm Francesca Channon, a PhD student at University College London (UCL), special
     - Developing in collaboration with AI entrepreneur Elton Sampaio, the tool is designed to help researchers explore, analyse, and visualise research related to HVAC systems and AI.
     - The project involves natural language processing, knowledge graphs, interactive 3D visualisations, and querying of AI and HVAC research databases.
 
-- **Energy Efficiency in Built Environments**:
+- **Inovee AI - Energy Efficiency in Built Environments**:  [Company Website](https://inovee.ai)
     - Focused on optimising energy consumption in buildings using AI, machine learning, and predictive analytics.
     - Supervised by leading AI experts at UCL, I am working on creating scalable AI-driven solutions for real-world energy management problems.
 
