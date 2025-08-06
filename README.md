@@ -33,7 +33,7 @@ I'm Francesca Channon, a PhD student at University College London (UCL), special
     - Developing in collaboration with AI entrepreneur Elton Sampaio, the tool is designed to help researchers explore, analyse, and visualise research related to HVAC systems and AI.
     - The project involves natural language processing, knowledge graphs, interactive 3D visualisations, and querying of AI and HVAC research databases.
 
-- **Inovee AI - Energy Efficiency in Built Environments**:  [Company Website](https://inovee.ai) [Github] (https://github.com/INOVEE-AI)
+- **Inovee AI - Energy Efficiency in Built Environments**:  [Company Website](https://inovee.ai) [Github](https://github.com/INOVEE-AI)
     - Focused on optimising energy consumption in buildings using AI, machine learning, and predictive analytics.
     - Supervised by leading AI experts at UCL, I am working on creating scalable AI-driven solutions for real-world energy management problems.
 
