@@ -10,11 +10,11 @@ I'm Francesca Channon, a PhD student at University College London (UCL), special
 - Advanced AI techniques such as reinforcement learning from human feedback (RLHF), transformer models, LLM fine-tuning, and LLM-knowledge graph integration.
 - DRL Methods for HVAC optimisation in commcercial buildings.
 
-### 👯 I’m looking to collaborate on
+### I’m looking to collaborate on
 - Projects involving AI applications for sustainability, energy-efficient systems, and large-scale data analytics.
 - Open-source initiatives focused on integrating AI and LLMs with knowledge graphs for enhanced complex data understanding.
 
-### 🤔 I’m looking for help with
+### I’m looking for help with
 - Collaborators who are interested in the intersection of AI, HVAC systems, and environmental sustainability.
 
 ### 💬 Ask me about
@@ -24,9 +24,6 @@ I'm Francesca Channon, a PhD student at University College London (UCL), special
 ### 📫 How to reach me:
 - Email: ucabfec@ucl.ac.uk
 - LinkedIn: [Francesca Channon](https://uk.linkedin.com/in/francesca-channon)
-
-### ⚡ Fun fact:
-- I am an advanced dressage rider, competing nationally and winning the British Dressage Medium Level Regional Finals. In my free time, I also enjoy kitesurfing and scuba diving.
 
 ---
 
